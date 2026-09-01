@@ -1,5 +1,5 @@
 # TechNotes Git & GitHub Workflow
-
+![img.png](img.png)
 ## 1. Purpose
 
 This document defines the Git and GitHub workflow used by the TechNotes engineering team.
