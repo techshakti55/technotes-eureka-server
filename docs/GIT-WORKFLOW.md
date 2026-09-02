@@ -2,6 +2,7 @@
 ![img.png](img.png)
 ## 1. Purpose
 # git All Setup
+All Documents In Given Below
 
 This document defines the Git and GitHub workflow used by the TechNotes engineering team.
 
